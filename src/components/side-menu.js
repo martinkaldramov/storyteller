@@ -15,3 +15,5 @@ class SideMenu extends Component{
     )
   }
 }
+
+export default SideMenu;
